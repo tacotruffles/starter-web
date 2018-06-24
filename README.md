@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Basic decscription will go here.
+Basic decscription will go here. Rebase this sentence as you like.
 
 ## Introduction
 This repository is for Git and GitHub configuration testing

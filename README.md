@@ -16,3 +16,7 @@ blahh
 ## How To Contribute
 
 Just Do it.
+
+### Copyright
+
+2018 Bluebit Media

@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bilbo Baggins	bilbo@mordor.org	@bilbobaggins
 
 # THANKS
 

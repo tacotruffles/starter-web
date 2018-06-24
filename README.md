@@ -7,4 +7,6 @@ This repository is for Git and GitHub configuration testing
 
 Sample website with plenty of files for demos
 
+### Deployment
+
 ### How To Contribute

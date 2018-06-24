@@ -15,8 +15,8 @@ blahh
 
 ## How To Contribute
 
-Just Do it.
+Please fork this repo and then issue pull requests for review.
 
 ### Copyright
 
-2018 Bluebit Media
+2018 Bluebit Media. Oh, yeah.

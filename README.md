@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Basic decscription will go here.
+
 ## Introduction
 This repository is for Git and GitHub configuration testing
 
@@ -7,6 +9,10 @@ This repository is for Git and GitHub configuration testing
 
 Sample website with plenty of files for demos
 
-### Deployment
+## Deployment
 
-### How To Contribute
+blahh
+
+## How To Contribute
+
+Just Do it.
